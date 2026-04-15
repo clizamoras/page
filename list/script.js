@@ -1,4 +1,3 @@
-
 const form = document.getElementById("todo-form");
 const todoList = document.getElementById("todo-list");
 
