@@ -1,6 +1,5 @@
 const form = document.getElementById("todo-form");
 const todoList = document.getElementById("todo-list");
-
 let todos = [];
 
 function saveToLocalStorage() {
